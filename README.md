@@ -1,7 +1,7 @@
 # IT Expenditure Dashboard
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/vermanikhil2006/IT-Expenditure-Dashboard/blob/main/Dataset.xlsx">Dataset</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
