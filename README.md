@@ -10,5 +10,5 @@
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![DB](https://github.com/vermanikhil2006/IT-Expenditure-Dashboard/blob/main/DB.png)
 
